@@ -4,3 +4,5 @@
 # Modal feature is also added so that user can confirm wheather he/she wants to delete the entire cart or not
 # Icons are taken from heroIocns copying the svg path here in this project 
 # and randoms data is also created in cartItem.js file
+
+Site: https://aniket-ecom.netlify.app/
